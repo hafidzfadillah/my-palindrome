@@ -1,4 +1,4 @@
-# suitmedia_test
+# flutter_palindrome
 
 A new Flutter project.
 
